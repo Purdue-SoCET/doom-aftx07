@@ -1,0 +1,3 @@
+[submodule "doomgeneric/aft-femtokernel"]
+	path = doomgeneric/aft-femtokernel
+	url = git@github.com:Purdue-SoCET/aft-femtokernel.git
